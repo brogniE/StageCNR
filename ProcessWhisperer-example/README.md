@@ -1,0 +1,2 @@
+# ProcessWhisperer
+Process optimizer that leverages the power of Reinforcement Learning (RL) to automatically fine-tune and optimize machine process parameters. By harnessing machine learning, the algorithm intelligently explores the parameter space to maximize process performance, enabling efficient and high-quality production. Use at the moment this two parameters for initialise the simulation t_sim = 10;v_in = 4;
